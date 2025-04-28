@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Account Deletion Request</title>
+</head>
+<body>
+<h1>Account Deletion Request for Minute Bazaar</h1>
+<p>
+To request deletion of your account and associated data for [Your App Name], please follow these steps:
+</p>
+<h2>Option 1: In-App Deletion (If Applicable)</h2>
+<p>
+If your app has an in-app account deletion feature, you can delete your account directly within the app:
+</p>
+<ol>
+<li>Open the Minute Bazaar app on your device.</li>
+<li>Go to your profile.</li>
+<li>Go to App Settings.</li>
+<li>Find the "Delete Account" option.</li>
+<li>Follow the on-screen instructions to confirm your deletion request.</li>
+</ol>
+<h2>Data Deletion Information</h2>
+<p>
+When you delete your account, the following data will be deleted:
+</p>
+<ul>
+<li>Profile information (name, email, etc.)</li>
+<li>Saved preferences and settings</li>
+<li>User-generated content (posts, uploads, etc.)</li>
+</ul>
+<p>
+The following data may be retained for legal and accounting purposes:
+</p>
+<ul>
+<li>Transaction logs: We retain transaction logs for 7 years to comply with tax regulations.</li>
+</ul>
+</body>
+</html>
